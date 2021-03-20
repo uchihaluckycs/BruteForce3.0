@@ -8,8 +8,9 @@
 ###### 3. If the argument satisfies those conditions then we get the flag
 
 ### Task : Find the 11 digit password
-
-##### Now convert to python
+##### Copy the decompiled code and convert it to python
+![cutter](https://user-images.githubusercontent.com/32408501/111876790-61aa1b00-89c6-11eb-9c68-093948f1432f.png)
+![cutter](https://user-images.githubusercontent.com/32408501/111876809-72f32780-89c6-11eb-9f4c-83d1d91e329e.png)
 ```
 # pip3 install z3-solver
 from z3 import *
@@ -43,6 +44,7 @@ p8 = BitVec("p8",8)
 p9 = BitVec("p9",8)
 p10 = BitVec("p10",8)
 
+# converted decompiled code to python
 eax = m40
 rsi = p8
 eax += 0x25
