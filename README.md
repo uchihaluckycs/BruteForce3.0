@@ -1,4 +1,4 @@
-# BruteForce3.0 z3-ti challenge
+# BruteForce3.0 CTF z3-ti challenge
 
 ### Now convert to python
 ```
