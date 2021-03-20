@@ -1,6 +1,6 @@
 # BruteForce3.0 CTF write-up
 
-## z3-ti challenge
+## z3 ti challenge
 #### Binary File : [ti](https://github.com/uchihaluckycs/BruteForce3.0_CTF/raw/main/ti)
 #### Prerequisites : 
 ###### 1. Cutter
