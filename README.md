@@ -6,11 +6,13 @@
 ###### 1. According to given binary file, we need to pass an argument that is password which is 11 digit long
 ###### 2. After passing an argument, the binary file perform some calculations and check some conditions on given argument
 ###### 3. If the argument satisfies those conditions then we get the flag
->
+
+
 #### Task : Find the 11 digit password
 ###### Copy the decompiled code as shown in the following screenshots and convert it to python
 ![cutter](https://user-images.githubusercontent.com/32408501/111876790-61aa1b00-89c6-11eb-9c68-093948f1432f.png)
 ![cutter](https://user-images.githubusercontent.com/32408501/111876809-72f32780-89c6-11eb-9f4c-83d1d91e329e.png)
+
 ```
 # pip3 install z3-solver
 from z3 import *
