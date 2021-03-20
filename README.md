@@ -1,4 +1,4 @@
-# BruteForce3.0 CTF 
+# BruteForce3.0 CTF write-up
 
 ## z3-ti challenge
 
