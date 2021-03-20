@@ -4,9 +4,9 @@
 ```
 # !pip3 install z3-solver
 from z3 import *
-m40 = 0
 
-# consider m60,m64,m68,m6c,m70,m74,m78,m7c,m80,m84,m88 are memory locations and initially zero
+# consider m40,m60,m64,m68,m6c,m70,m74,m78,m7c,m80,m84,m88 are memory locations and initially zero
+m40 = 0
 m60 = 0
 m80 = 0
 m84 = 0
