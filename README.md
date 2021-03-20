@@ -2,13 +2,13 @@
 
 ## z3-ti challenge
 
-### After decompiling the binary file
+### After decompiling and analyzing the binary file
 
-##### According to given binary file, we need to pass an argument that is password which is 11 digit long
-##### After passing an argument, the binary file perform some calculations and check some conditions on given argument
-##### If the argument satisfies those conditions then we get the flag
+##### 1. According to given binary file, we need to pass an argument that is password which is 11 digit long
+##### 2. After passing an argument, the binary file perform some calculations and check some conditions on given argument
+##### 3. If the argument satisfies those conditions then we get the flag
 
-### Task : Find the 11 digit argument
+### Task : Find the 11 digit password
 
 ##### Now convert to python
 ```
@@ -29,6 +29,7 @@ m70 = 0
 m68 = 0
 m64 = 0
 
+# consider p0 to p10 are 11 variables where each variable represents one char in 11 digit password
 # We need p0 to p10 values but we don't know what are those values
 # Assign p0 to p10 as BitVec
 p0 = BitVec("p0",8)
