@@ -3,10 +3,9 @@
 ## z3-ti challenge
 
 ### After decompiling and analyzing the binary file
-
-##### 1. According to given binary file, we need to pass an argument that is password which is 11 digit long
-##### 2. After passing an argument, the binary file perform some calculations and check some conditions on given argument
-##### 3. If the argument satisfies those conditions then we get the flag
+  ##### 1. According to given binary file, we need to pass an argument that is password which is 11 digit long
+  ##### 2. After passing an argument, the binary file perform some calculations and check some conditions on given argument
+  ##### 3. If the argument satisfies those conditions then we get the flag
 
 ### Task : Find the 11 digit password
 
