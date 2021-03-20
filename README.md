@@ -2,15 +2,15 @@
 
 ## z3-ti challenge
 #### Prerequisites : 
-1. Cutter
-2. Python3
-3. **Use brain**
+###### 1. Cutter
+###### 2. Python3
+###### 3. **Use brain**
 
 #### After decompiling and analyzing the binary file
 ![cutter](https://user-images.githubusercontent.com/32408501/111880053-26f8b080-89cf-11eb-9eae-50a505c05568.png)
-1. According to given binary file, we need to pass an argument that is password which is 11 digit long
-2. After passing an argument, the binary file perform some calculations and check some conditions on given argument
-3. If the argument satisfies those conditions then we get the flag
+###### 1. According to given binary file, we need to pass an argument that is password which is 11 digit long
+###### 2. After passing an argument, the binary file perform some calculations and check some conditions on given argument
+###### 3. If the argument satisfies those conditions then we get the flag
 
 
 #### Task : Find the 11 digit password
