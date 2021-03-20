@@ -2,7 +2,7 @@
 
 ### Now convert to python
 ```
-# !pip3 install z3-solver
+# pip3 install z3-solver
 from z3 import *
 
 # consider m40,m60,m64,m68,m6c,m70,m74,m78,m7c,m80,m84,m88 are memory locations and initially zero
