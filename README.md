@@ -1,6 +1,16 @@
-# BruteForce3.0 CTF z3-ti challenge
+# BruteForce3.0 CTF 
 
-### Now convert to python
+## z3-ti challenge
+
+### After decompiling the binary file
+
+##### According to given binary file, we need to pass an argument that is password which is 11 digit long
+##### After passing an argument, the binary file perform some calculations and check some conditions on given argument
+##### If the argument satisfies those conditions then we get the flag
+
+### Task : Find the 11 digit argument
+
+##### Now convert to python
 ```
 # pip3 install z3-solver
 from z3 import *
