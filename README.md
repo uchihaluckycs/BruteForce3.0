@@ -1238,5 +1238,6 @@ s.check()
 res = s.model()
 print(chr(res[p0].as_long())+chr(res[p1].as_long())+chr(res[p2].as_long())+chr(res[p3].as_long())+chr(res[p4].as_long())+chr(res[p5].as_long())+chr(res[p6].as_long())+chr(res[p7].as_long())+chr(res[p8].as_long())+chr(res[p9].as_long())+chr(res[p10].as_long()))
 ```
+###### Execute the above python script, we get the required argument
 ![terminal](https://user-images.githubusercontent.com/32408501/111880756-472a6e80-89d3-11eb-9b65-0fb2b19eff4d.png)
 ![terminal](https://user-images.githubusercontent.com/32408501/111880301-bc487480-89d0-11eb-93d9-d0ed20b4ca8e.png)
