@@ -1207,7 +1207,7 @@ eax *= ecx
 eax += edx
 m68 = eax
 
-# here is the most interesting thiller part
+# Here comes the most interesting thriller part
 s = Solver()
 # Adding rules begin
 s.add(m60 == 0)
