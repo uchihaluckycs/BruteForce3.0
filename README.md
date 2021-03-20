@@ -10,9 +10,9 @@
 #### After decompiling and analyzing the binary file
 ![cutter](https://user-images.githubusercontent.com/32408501/111880053-26f8b080-89cf-11eb-9eae-50a505c05568.png)
 ###### 1. According to the given binary file, we need to pass an argument that is password which is 11 digit long
-###### 2. After passing an argument, the binary file performs some calculations and at the end it checks some conditions on given argument
+###### 2. After passing an argument, the binary file performs some calculations and at the end it checks certain conditions on the given argument
 ![cutter](https://user-images.githubusercontent.com/32408501/111881054-d2f0ca80-89d4-11eb-9b15-a8c00020f019.png)
-###### 3. If the argument satisfies those conditions then we get the flag
+###### 3. If the given argument satisfies those conditions then we get the flag
 &nbsp;
 #### Task : Find the 11 digit password
 ###### Copy the decompiled code as shown in the following screenshots and convert it to python
