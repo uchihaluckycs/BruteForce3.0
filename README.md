@@ -1237,3 +1237,4 @@ res = s.model()
 print(chr(res[p0].as_long())+chr(res[p1].as_long())+chr(res[p2].as_long())+chr(res[p3].as_long())+chr(res[p4].as_long())+chr(res[p5].as_long())+chr(res[p6].as_long())+chr(res[p7].as_long())+chr(res[p8].as_long())+chr(res[p9].as_long())+chr(res[p10].as_long()))
 ```
 
+![terminal](https://user-images.githubusercontent.com/32408501/111880301-bc487480-89d0-11eb-93d9-d0ed20b4ca8e.png)
