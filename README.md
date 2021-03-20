@@ -39,7 +39,7 @@ m64 = 0
 
 # consider p0 to p10 are 11 variables where each variable represents one char in 11 digit password
 # We need p0 to p10 values but we don't know what are those values
-p0 = BitVec("p0",8)
+p0 = BitVec("p0",8) # 8 means 8bits => 1 char
 p1 = BitVec("p1",8)
 p2 = BitVec("p2",8)
 p3 = BitVec("p3",8)
